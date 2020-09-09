@@ -16,6 +16,7 @@
     <module>AbstractFactory</module>
     <module>Builder</module>
     <module>Prototype</module>
+    <module>Command</module>
   </modules>
 
 
