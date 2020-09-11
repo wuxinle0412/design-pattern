@@ -17,6 +17,8 @@
     <module>Builder</module>
     <module>Prototype</module>
     <module>Command</module>
+    <module>Adapter</module>
+    <module>State</module>
   </modules>
 
 
