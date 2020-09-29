@@ -16,9 +16,11 @@
     <module>AbstractFactory</module>
     <module>Builder</module>
     <module>Prototype</module>
+    <module>ChainOfResponsibility</module>
     <module>Command</module>
     <module>Adapter</module>
     <module>State</module>
+    <module>Composite</module>
   </modules>
 
 
