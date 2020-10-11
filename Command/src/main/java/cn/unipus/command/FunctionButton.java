@@ -6,11 +6,10 @@ package cn.unipus.command;
  * @date 2020/9/9 11:17
  */
 public class FunctionButton {
-  private String name;  //功能键名称
+
   private Command command;  //维持一个抽象命令对象的引用
 
-  public FunctionButton(String name) {
-    this.name = name;
+  public FunctionButton() {
   }
 
   //为功能键注入命令
