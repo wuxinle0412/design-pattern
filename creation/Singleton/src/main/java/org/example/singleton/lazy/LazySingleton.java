@@ -1,4 +1,4 @@
-package cn.unipus.lazy;
+package org.example.singleton.lazy;
 
 /**
  * @author wuxinle

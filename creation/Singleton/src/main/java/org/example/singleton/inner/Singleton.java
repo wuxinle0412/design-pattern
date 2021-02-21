@@ -1,4 +1,4 @@
-package cn.unipus.inner;
+package org.example.singleton.inner;
 
 
 /**

@@ -16,7 +16,6 @@
 
   <modules>
     <module>Strategy</module>
-    <module>Singleton</module>
     <module>SimpleFactory</module>
     <module>FactoryMethod</module>
     <module>AbstractFactory</module>
@@ -38,6 +37,7 @@
       <module>Facade</module>
       <module>Flyweight</module>
       <module>Observer</module>
+    <module>creation</module>
   </modules>
 
 

@@ -1,4 +1,4 @@
-package cn.unipus.eager;
+package org.example.singleton.eager;
 
 /**
  * @author wuxinle

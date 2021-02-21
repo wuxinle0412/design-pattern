@@ -1,4 +1,4 @@
-package cn.unipus.singleton1;
+package org.example.singleton.singleton1;
 
 /**
  * @author wuxinle

@@ -1,4 +1,4 @@
-package cn.unipus.exercise;
+package org.example.singleton.exercise;
 
 import java.util.ArrayList;
 import java.util.List;

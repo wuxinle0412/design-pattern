@@ -1,4 +1,4 @@
-package cn.unipus.singleton2;
+package org.example.singleton.singleton2;
 
 import java.util.ArrayList;
 import java.util.List;
