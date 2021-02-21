@@ -16,8 +16,6 @@
 
   <modules>
     <module>Strategy</module>
-    <module>SimpleFactory</module>
-    <module>FactoryMethod</module>
     <module>AbstractFactory</module>
     <module>Builder</module>
     <module>Prototype</module>

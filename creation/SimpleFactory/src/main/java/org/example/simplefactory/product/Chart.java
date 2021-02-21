@@ -1,4 +1,4 @@
-package cn.unipus;
+package org.example.simplefactory.product;
 
 /**
  * @author wuxinle

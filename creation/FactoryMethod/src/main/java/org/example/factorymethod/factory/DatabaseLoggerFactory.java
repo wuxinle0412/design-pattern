@@ -1,8 +1,7 @@
-package cn.unipus.factory.impl;
+package org.example.factorymethod.factory;
 
-import cn.unipus.factory.LoggerFactory;
-import cn.unipus.product.Logger;
-import cn.unipus.product.impl.DatabaseLogger;
+import org.example.factorymethod.product.Logger;
+import org.example.factorymethod.product.DatabaseLogger;
 
 /**
  * @author wuxinle

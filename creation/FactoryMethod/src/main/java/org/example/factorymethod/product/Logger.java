@@ -1,4 +1,4 @@
-package cn.unipus.product;
+package org.example.factorymethod.product;
 
 /**
  * @author wuxinle

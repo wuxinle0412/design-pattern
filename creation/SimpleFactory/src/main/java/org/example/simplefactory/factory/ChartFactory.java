@@ -1,8 +1,9 @@
-package cn.unipus;
+package org.example.simplefactory.factory;
 
-import cn.unipus.impl.HistogramChart;
-import cn.unipus.impl.LineChart;
-import cn.unipus.impl.PieChart;
+import org.example.simplefactory.product.Chart;
+import org.example.simplefactory.product.HistogramChart;
+import org.example.simplefactory.product.LineChart;
+import org.example.simplefactory.product.PieChart;
 
 /**
  * @author wuxinle

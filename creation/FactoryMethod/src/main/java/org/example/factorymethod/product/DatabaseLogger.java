@@ -1,6 +1,6 @@
-package cn.unipus.product.impl;
+package org.example.factorymethod.product;
 
-import cn.unipus.product.Logger;
+import org.example.factorymethod.product.Logger;
 
 /**
  * @author wuxinle

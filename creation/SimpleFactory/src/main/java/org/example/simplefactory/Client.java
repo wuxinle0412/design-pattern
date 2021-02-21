@@ -1,4 +1,7 @@
-package cn.unipus;
+package org.example.simplefactory;
+
+import org.example.simplefactory.factory.ChartFactory;
+import org.example.simplefactory.product.Chart;
 
 /**
  * @author wuxinle
