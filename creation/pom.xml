@@ -16,6 +16,8 @@
         <module>SimpleFactory</module>
         <module>FactoryMethod</module>
         <module>Builder</module>
+        <module>Prototype</module>
+        <module>AbstractFactory</module>
     </modules>
 
 
