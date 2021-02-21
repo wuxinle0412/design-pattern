@@ -15,6 +15,7 @@
         <module>Singleton</module>
         <module>SimpleFactory</module>
         <module>FactoryMethod</module>
+        <module>Builder</module>
     </modules>
 
 

@@ -17,7 +17,6 @@
   <modules>
     <module>Strategy</module>
     <module>AbstractFactory</module>
-    <module>Builder</module>
     <module>Prototype</module>
     <module>ChainOfResponsibility</module>
     <module>Command</module>

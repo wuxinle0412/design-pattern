@@ -1,7 +1,7 @@
-package cn.unipus.builder.impl;
+package org.example.builder;
 
-import cn.unipus.builder.Actor;
-import cn.unipus.builder.ActorBuilder;
+import org.example.builder.Actor;
+import org.example.builder.ActorBuilder;
 
 /**
  * @author wuxinle
