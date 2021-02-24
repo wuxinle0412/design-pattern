@@ -1,6 +1,6 @@
-package cn.unipus.adapter.object;
+package org.example.adapter.object;
 
-import cn.unipus.adapter.util.PropertiesUtil;
+import org.example.adapter.util.PropertiesUtil;
 
 /**
  * @author wuxinle

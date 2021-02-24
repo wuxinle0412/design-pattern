@@ -1,4 +1,4 @@
-package cn.unipus.adapter.object;
+package org.example.adapter.object;
 
 /**
  * @author wuxinle

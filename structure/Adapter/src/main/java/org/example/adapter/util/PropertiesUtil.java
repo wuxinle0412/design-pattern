@@ -1,4 +1,4 @@
-package cn.unipus.adapter.util;
+package org.example.adapter.util;
 
 import java.io.InputStream;
 import java.util.Properties;

@@ -1,4 +1,4 @@
-package cn.unipus.adapter.example1;
+package org.example.adapter.example1;
 
 @FunctionalInterface
 public interface Result<T>{

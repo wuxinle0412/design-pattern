@@ -1,4 +1,4 @@
-package cn.unipus.adapter.example1;
+package org.example.adapter.example1;
 
 import java.util.concurrent.Callable;
 
